@@ -18,7 +18,7 @@ export default function HomePage() {
           <div className="space-y-6">
             <div className="py-8 sm:py-12">
               <h2 className="max-w-3xl text-4xl font-semibold leading-tight text-white sm:text-5xl">
-                输入股票代码，生成结构化市场观察22。
+                输入股票代码，生成结构化市场观察2334。
               </h2>
               <p className="mt-5 max-w-2xl text-base leading-7 text-slate-300">
                 面向 A 股 MVP 的 AI 分析页面，聚焦市场位置、技术趋势、板块关联、风险因素和短期观察。
